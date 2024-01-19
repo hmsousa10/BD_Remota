@@ -23,7 +23,7 @@ public class MainMenu : MonoBehaviour
         {
             InfoUtilizador.text = "Bem vindo " + GestorPrograma.Instancia.Utilizador + " pontuação atual: " + GestorPrograma.Instancia.Pontuacao;
         }
-    }
+    }   
 
     public void MenuRegisto()
     {

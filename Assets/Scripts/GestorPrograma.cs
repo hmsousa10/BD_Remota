@@ -50,7 +50,6 @@ public class GestorPrograma : MonoBehaviour
         Instancia = this;
         //Método que informa a aplicação para não destruir o objeto marcado quando é carregada uma cena.
         DontDestroyOnLoad(gameObject);
-
     }
 
 }
